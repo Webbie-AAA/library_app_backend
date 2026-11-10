@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
-    "db-setup": "node db/db-setup.js"
+    "db-setup": "node db/setup-db.js"
   },
   "keywords": [],
   "author": "",
