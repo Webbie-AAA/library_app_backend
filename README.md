@@ -123,6 +123,8 @@ Example requests and responses will be added once the endpoints are finished.
 
 ## Progress
 
+## Progress
+
 - [x] Express app and server set up
 - [x] Database table created and populated with seed data
 - [x] Database connection (connection pool)
@@ -130,5 +132,5 @@ Example requests and responses will be added once the endpoints are finished.
 - [ ] Controllers
 - [ ] Routes for each endpoint
 - [ ] Error handling and status codes
+- [ ] Testing
 - [ ] Front end
-
